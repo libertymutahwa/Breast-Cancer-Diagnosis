@@ -131,6 +131,4 @@ For questions, feedback, or collaboration opportunities, reach out to me:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-**Author**: Liberty Mutahwa  
-**Date**: May 28, 2025  
-**Project Status**: Active
+
