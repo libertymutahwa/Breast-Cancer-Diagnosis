@@ -125,7 +125,9 @@ Potential enhancements:
 For questions, feedback, or collaboration opportunities, reach out to me:
 - **Email**: mutahwaliberty@gmail.com
 - **GitHub**: [libertymutahwa](https://github.com/libertymutahwa)
-- **LinkedIn**: [Liberty Mutahwa](https://www.linkedin.com/in/liberty-mutahwa/)
+- **LinkedIn**: www.linkedin.com/in/mutahwa-liberty
+
+
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
